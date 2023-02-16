@@ -1,7 +1,7 @@
-# Connor LeDrew's Notes
+# [Connor LeDrew's Notes](https://github.com/Connor-LD)
 
-Test
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+## Table of Contents:
+* [Unit 1 - SQL]
+* [Unit 2 - Python](/Day 1 - git, environments, python config)
 
 Below is for notesss
